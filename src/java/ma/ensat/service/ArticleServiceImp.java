@@ -16,7 +16,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author macbookpro
+ * @author aadnaane
  */
 @Service
 public class ArticleServiceImp implements ArticleService{

@@ -1,7 +1,7 @@
 <%-- 
     Document   : viewart
     Created on : 13 nov. 2021, 22:27:43
-    Author     : macbookpro
+    Author     : aadnaane
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

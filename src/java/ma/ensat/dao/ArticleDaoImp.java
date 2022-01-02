@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 /**
  *
- * @author Mohamed EL HADDAD
+ * @author aadnaane
  */
 @Repository
 public class ArticleDaoImp implements ArticleDao {

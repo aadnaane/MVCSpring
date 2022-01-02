@@ -10,7 +10,7 @@ import ma.ensat.model.Article;
 
 /**
  *
- * @author macbookpro
+ * @author aadnaane
  */
 public interface ArticleService 
 {

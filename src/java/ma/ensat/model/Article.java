@@ -19,7 +19,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author Mohamed EL HADDAD
+ * @author aadnaane
  */
 @Entity
 @Table(name = "article")
