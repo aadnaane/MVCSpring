@@ -81,13 +81,13 @@ public class ArticleController {
 //     @RequestMapping(value="/editart",method = RequestMethod.GET)
 //         public String delete(HttpServletRequest request, Model m){ 
 //        int id = Integer.parseInt(request.getParameter("id"));
-//        Article art=service.getArticle(id);    
+//        Article_old art=service.getArticle(id);    
 //        m.addAttribute("command",art);  
 //        return "editform";    
 //    }
 
 //        @RequestMapping(value="/deleteart/{id}", method = RequestMethod.GET)    
-//    public String delete(@ModelAttribute("art") Article art, @PathVariable int id){ 
+//    public String delete(@ModelAttribute("art") Article_old art, @PathVariable int id){ 
 //         service.deleteArticle(id);    
 //          return  "redirect:/listart.htm"; 
 //    }

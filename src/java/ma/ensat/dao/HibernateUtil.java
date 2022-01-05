@@ -25,7 +25,7 @@ public class HibernateUtil {
                 // Hibernate settings equivalent to hibernate.cfg.xml's properties
                 Properties settings = new Properties();
                 settings.put(Environment.DRIVER, "com.mysql.jdbc.Driver");
-                settings.put(Environment.URL, "jdbc:mysql://localhost:3306/spring_article");
+                settings.put(Environment.URL, "jdbc:mysql://localhost:3306/DockerSpringArticle");
                 settings.put(Environment.USER, "root");
                 settings.put(Environment.PASS, "");
                 settings.put(Environment.DIALECT, "org.hibernate.dialect.MySQL5Dialect");

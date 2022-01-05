@@ -18,7 +18,7 @@ public interface ArticleDao
 public  void create(Article art);
 public  List<Article> getAll();
 public  Article getArticle(int idArticle);
-public  void updateArticle(Article art) ;
-public  void deleteArticle(Article article) ;
+public  void updateArticle(Article art);
+public  void deleteArticle(Article article);
 public  void deleteArticle(int id) ;
    }
